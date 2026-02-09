@@ -1,4 +1,4 @@
-# ☕ Java Übungsgruppe | DHBW
+# ☕ java-datengrab | DHBW
 
 Dieses Repository dient zum Austausch von Lösungen und zur gemeinsamen Klausurvorbereitung im Fach Programmieren.
 
@@ -10,6 +10,15 @@ Wir nutzen eine **nutzerbasierte Struktur**, damit jeder sein eigenes Projekt-Se
 **Pfad-Schema:** `[Name] / DHBW-Programmieren / src / [Package] / [Klasse].java`
 
 > **Beispiel:** > `Max/DHBW-Programmieren/src/de/dhbwka/java/exercise/datatypes/ShortValue.java`
+
+---
+
+## 📜 Verhaltensregeln
+🛡️ Schreibschutz: Bearbeite niemals Dateien in den Ordnern deiner Kommilitonen.
+
+🧹 Sauberkeit: Achte darauf, dass dein Code kompiliert, bevor du ihn hochlädst.
+
+📝 Kommentare: Beantworte theoretische Fragen aus der Aufgabenstellung direkt als Kommentar im Quellcode.
 
 ---
 
@@ -27,10 +36,3 @@ git commit -m "Add: [Aufgabenname] von [DeinName]"
 
 # Hochladen
 git push origin main
-
-📜 Verhaltensregeln
-🛡️ Schreibschutz: Bearbeite niemals Dateien in den Ordnern deiner Kommilitonen.
-
-🧹 Sauberkeit: Achte darauf, dass dein Code kompiliert, bevor du ihn hochlädst.
-
-📝 Kommentare: Beantworte theoretische Fragen aus der Aufgabenstellung direkt als Kommentar im Quellcode.
