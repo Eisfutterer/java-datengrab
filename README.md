@@ -22,6 +22,12 @@ Wir nutzen eine **nutzerbasierte Struktur**, damit jeder sein eigenes Projekt-Se
 
 ---
 
+## 📚 Ressourcen
+* 📄 [Zu den Aufgabenstellungen](./_Aufgabenstellungen)
+* 💡 [Zu den Musterlösungen](./_Musterloesungen)
+
+---
+
 ## 🛠 Workflow (Kurzanleitung)
 
 ### 1. Vor dem Start
